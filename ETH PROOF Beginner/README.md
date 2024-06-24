@@ -64,7 +64,7 @@ To run this program, you can use Remix, an online Solidity IDE. To get started, 
 4. Once the contract is deployed, you can interact with it by calling various functions such as `mint` and `burn`. For example, to mint new tokens, click on the "MyToken" contract in the left-hand sidebar, select the `mint` function, enter the recipient address and the amount, and then click on the "transact" button to execute the function.
 
 ## Authors
-Metacrafter Chris  
+Parijat Ghosh
 [@ParjiatGhosh]
 
 ## License
